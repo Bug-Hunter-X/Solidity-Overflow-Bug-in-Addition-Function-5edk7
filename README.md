@@ -1,0 +1,2 @@
+# Solidity Overflow Bug
+This repository demonstrates a common bug in Solidity smart contracts: integer overflow during addition.  The `add` function does not handle potential overflows, resulting in incorrect calculations and potential vulnerabilities. The solution implements overflow checks to ensure correct behavior and prevent unexpected results.
